@@ -114,3 +114,13 @@ h3 { color: var(--navy); font-size: 1.06rem; line-height: 1.45; margin-bottom: 8
   .button { width: 100%; }
   .hero-card { padding: 25px; }
 }
+
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 20px;
+}
+
